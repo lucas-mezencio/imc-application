@@ -3,4 +3,8 @@
     <string name="hello_world">Hello World!</string>
     <string name="hi_radiobutton">Ola RadioButton</string>
     <string name="hi_checkbox">Ola checkbox</string>
+    <string name="app_title">IMC</string>
+    <string name="weight_hint">Digite seu peso em Kg</string>
+    <string name="height_hint">Digite sua altura em cm</string>
+    <string name="calcular">Calcular</string>
 </resources>
